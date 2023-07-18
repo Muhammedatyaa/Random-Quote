@@ -1,0 +1,25 @@
+.box h1 {
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.box p {
+    font-size: 30px;
+}
+
+.box button {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    padding: 15px 20px;
+    border: 0;
+}
+
+.box .quote-box #quote {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.box .quote-box #author {
+    font-size: 20px;
+}
